@@ -110,7 +110,6 @@ We compared models using **four metrics**:
 
 | Model               | RMSE (↓)  | MAPE (↓)  | R² (↑)  |
 |--------------------|----------|----------|------|
-| **Naïve Forecasting** | - | - | - |
 | **ARIMA**            | **1411.32** | **Extremely High** | **-0.06** (Very Poor) |
 | **Random Forest**    | **431.90** | **High** | **0.90** |
 | **XGBoost**         | **307.43** | **Lower than RF** | **0.95** (Best) |
